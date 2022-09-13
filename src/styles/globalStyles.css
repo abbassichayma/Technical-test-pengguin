@@ -1,0 +1,106 @@
+.MuiBox-root.css-1oe3pbl {
+    margin-top: 66px;
+}
+img.MuiCardMedia-root.MuiCardMedia-media.MuiCardMedia-img.css-o69gx8-MuiCardMedia-root {
+    width: auto;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.all{
+    display: flex;
+    margin-left: 30px;
+    width: 80%;
+    border-top: 1px solid gray; 
+    flex-wrap: wrap;
+}
+
+
+.desc{
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+.episode{
+    margin-top: 70px;
+}
+.episodes{
+    margin-left: 30px;
+    margin-top: 130px;
+    
+}
+.information{
+    display: flex;
+   
+}
+.producer{
+    margin-left: auto;
+    padding: auto;
+    padding-right: 40px;
+    font-size: 15px;
+}
+p.MuiTypography-root.MuiTypography-body2.css-9mu9ut-MuiTypography-root {
+    width: 67%;
+}
+p.MuiTypography-root.MuiTypography-body2.css-tsnn45-MuiTypography-root {
+    width: 67%;
+}
+.search{
+    margin-left: 50px 50px 50px 50px;
+    font-size: smaller;
+    margin-left: 20px;
+    
+}
+
+.MuiCardContent-root.css-46bh2p-MuiCardContent-root {
+    height: 80px;
+}
+
+
+.addwatchlist{
+margin-left: 30px;
+width: 100px;
+height: 35px;
+border-radius: 7px;
+background:rgb(216, 57, 57);
+border: none;
+color: white;
+cursor: pointer;
+
+
+}
+
+.watchTitle{
+margin-top: 90px;
+text-align: center;
+}
+
+.hover:hover{
+    background: gray;
+}
+
+.NoResult{
+padding-left:"50px";
+color:#696969;
+}
+
+.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
+    flex-wrap: wrap;
+}
+
+p.MuiTypography-root.MuiTypography-body2.css-14bzjub-MuiTypography-root {
+  
+  max-width: 400px; 
+  padding-right: 50px;
+}
+
+.notfound{
+   text-align: center; 
+   padding-top: 250px;
+   font-style: italic;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size:xx-large;
+   color:rgb(216, 57, 57);;
+}
+
